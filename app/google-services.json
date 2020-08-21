@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "152100290466",
+    "firebase_url": "https://doorproject-41ee0.firebaseio.com",
+    "project_id": "doorproject-41ee0",
+    "storage_bucket": "doorproject-41ee0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152100290466:android:8ac8b036a903d070babcfb",
+        "android_client_info": {
+          "package_name": "com.example.doorproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "152100290466-lo7q61o04rig0lo5hlvvjvlsdu7quot6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.doorproject",
+            "certificate_hash": "020a994de897eaa16e71e589bea94c4508d24f59"
+          }
+        },
+        {
+          "client_id": "152100290466-06h28hkodr5fjbdu8er1jcb8522objmo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNfNTgMcrQ9UNgTTKMSuWmq5RgEZaYZtw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "152100290466-06h28hkodr5fjbdu8er1jcb8522objmo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
